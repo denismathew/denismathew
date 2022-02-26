@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @denismathew
 - 👀 I’m interested in Node Technologies and Spring Boot Projects
-- 🌱 I’m currently learning Machine Learning
-- 💞️ I’m looking to collaborate on React Projects
+- 🌱 I’m currently experimenting with Machine Learning
+- 💞️ I’m looking to collaborate on React and Vue JS Projects
 - 📫 How to reach me denis.mathew@gmail.com / +91-9987536323
 
 <!---
